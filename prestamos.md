@@ -7,11 +7,11 @@ Solo te pueden prestar múltiplos de 100 y el restante no te lo pueden prestar
 ## Pseudocodigo
 
 Inicio
-    Leer y guardar cantidad
-    dinero_prestado = cantidad/100
-    dinero_no_prestado = cantidad%100
-    Imprimir dinero_prestado
-    Imprimir dinero_no_prestado
+    Leer y guardar cantidad  
+    dinero_prestado = cantidad/100  
+    dinero_no_prestado = cantidad%100  
+    Imprimir dinero_prestado  
+    Imprimir dinero_no_prestado  
 Fin
 
 ## Corridas de escritorio
