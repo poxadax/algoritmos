@@ -16,14 +16,14 @@ Fin
 
 ## Corridas de escritorio
 
-cantidad = 150
-dinero_prestado= 1
-dinero_no_prestado= 50
+cantidad = 150  
+dinero_prestado= 1  
+dinero_no_prestado= 50  
 
-cantidad = 3000
-dinero_prestado = 30
-dinero_no_prestado = 0
+cantidad = 3000  
+dinero_prestado = 30  
+dinero_no_prestado = 0  
 
-cantidad = 312
-dinero_prestado = 3
-dinero_no_prestado = 12
+cantidad = 312  
+dinero_prestado = 3  
+dinero_no_prestado = 12  
