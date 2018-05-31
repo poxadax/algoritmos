@@ -10,7 +10,7 @@ Naranja 3.2 a 5.44
 Amarillo 2 a 3.2  
 Verde 0 a 1.9  
 
-##Pseudocodigo
+## Pseudocodigo
 
 Inicio  
     Leer y guardar cantidad  
